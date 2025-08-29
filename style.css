@@ -1,13 +1,13 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 :root{
     --primaryFont: "Hind Madurai", sans-serif;
     --secondaryFont: "Inter", sans-serif; 
     --headerColor: rgba(17, 17, 17, 1);
     --pColor: rgba(92, 92, 92, 1);
     --bodyColor: #f5fff6;
+    --btnColor: rgba(0, 166, 62, 1);
 }
 /* Start navbar */
+.left_nav{
+    width: 196px;
+    height: 50px;
+}
